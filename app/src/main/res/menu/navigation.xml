@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_offline"
+        android:icon="@drawable/ic_signal_wifi_off_black_24dp"
+        android:title="@string/title_offline" />
+
+    <item
+        android:id="@+id/navigation_online"
+        android:icon="@drawable/ic_signal_wifi_3_bar_black_24dp"
+        android:title="@string/title_online" />
+
+</menu>
