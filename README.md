@@ -1,4 +1,4 @@
-# DISTANCE FINDER
+# Student-Management-Sync
 
 ```
 Develop Sample Android Application for Student Management Online - Offline Sync.
